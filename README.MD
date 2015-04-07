@@ -1,2 +1,3 @@
-# 这是一个使用多线程操作CoreData的简单例子
-## 使用方法见Demo
+# This is a simple project to show how to use multithread in CoreData.
+## How to use please see demo.
+
